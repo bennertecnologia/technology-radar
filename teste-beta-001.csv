@@ -1,0 +1,70 @@
+name,ring,quadrant,isNew,description
+.net core,Avalie,Ferramentas,TRUE,.net core
+API Manager / API Gateway,Avalie,Ferramentas,TRUE,API Manager / API Gateway
+artefatos builder,Experimente,Ferramentas,TRUE,artefatos builder
+BDD,Avalie,Ferramentas,TRUE,BDD
+BDOC no S3,Experimente,Ferramentas,TRUE,BDOC no S3
+bef,Adote,Ferramentas,TRUE,bef
+BEF com desacoplamento de entidades (DAOs), permitindo mock de dados,Adote,Ferramentas,TRUE,BEF com desacoplamento de entidades (DAOs), permitindo mock de dados
+bef one layer,Experimente,Ferramentas,TRUE,bef one layer
+benner report,Evite,Ferramentas,TRUE,benner report
+BIT,Adote,Ferramentas,TRUE,BIT
+bpm,Avalie,Ferramentas,TRUE,bpm
+btl,Adote,Ferramentas,TRUE,btl
+c#,Adote,Ferramentas,TRUE,c#
+camunda,Avalie,Ferramentas,TRUE,camunda
+chatbot,Experimente,Ferramentas,TRUE,chatbot
+code review,Adote,Ferramentas,TRUE,code review
+container,Experimente,Ferramentas,TRUE,container
+continuous delivery,Adote,Ferramentas,TRUE,continuous delivery
+control tower,Evite,Ferramentas,TRUE,control tower
+crowd learning,Adote,Ferramentas,TRUE,crowd learning
+data analisys,Avalie,Ferramentas,TRUE,data analisys
+DDD,Avalie,Técnicas,TRUE,DDD
+delphi,Evite,Técnicas,TRUE,delphi
+design sprint,Experimente,Técnicas,TRUE,design sprint
+devops,Experimente,Técnicas,TRUE,devops
+docker,Experimente,Técnicas,TRUE,docker
+elasticsearch,Experimente,Técnicas,TRUE,elasticsearch
+git,Adote,Técnicas,TRUE,git
+guildas,Adote,Técnicas,TRUE,guildas
+hackatons,Adote,Técnicas,TRUE,hackatons
+identity server,Avalie,Técnicas,TRUE,identity server
+integracao contínua,Adote,Técnicas,TRUE,integracao contínua
+jenkins,Adote,Técnicas,TRUE,jenkins
+jest,Adote,Técnicas,TRUE,jest
+jira,Avalie,Técnicas,TRUE,jira
+kibana,Experimente,Plataformas,TRUE,kibana
+kubernetes,Avalie,Plataformas,TRUE,kubernetes
+machine learning,Avalie,Plataformas,TRUE,machine learning
+Message broker,Avalie,Plataformas,TRUE,Message broker
+micro serviços,Avalie,Plataformas,TRUE,micro serviços
+nativescript-vue,Avalie,Plataformas,TRUE,nativescript-vue
+nexus repository manager,Avalie,Plataformas,TRUE,nexus repository manager
+NLP,Avalie,Plataformas,TRUE,NLP
+numericos não float,Experimente,Plataformas,TRUE,numericos não float
+nuvem pública,Experimente,Plataformas,TRUE,nuvem pública
+postgreSQL,Avalie,Plataformas,TRUE,postgreSQL
+power bi,Avalie,Plataformas,TRUE,power bi
+pwa,Avalie,Plataformas,TRUE,pwa
+redis,Experimente,Plataformas,TRUE,redis
+regra de negócio em vba,Evite,Plataformas,TRUE,regra de negócio em vba
+rest,Adote,Plataformas,TRUE,rest
+roteamento de msg no btl,Adote,Plataformas,TRUE,roteamento de msg no btl
+SaaS,Avalie,Plataformas,TRUE,SaaS
+script UI,Adote,Plataformas,TRUE,script UI
+scrum/kanban,Adote,Plataformas,TRUE,scrum/kanban
+selenium,Adote,Plataformas,TRUE,selenium
+silverlight,Evite,Plataformas,TRUE,silverlight
+solid,Adote,Plataformas,TRUE,solid
+sonarqube,Adote,Plataformas,TRUE,sonarqube
+SQL específico para banco de dados,Evite,Linguagens & Frameworks,TRUE,SQL específico para banco de dados
+stimulsoft,Adote,Linguagens & Frameworks,TRUE,stimulsoft
+swagger,Adote,Linguagens & Frameworks,TRUE,swagger
+testes automatizados,Adote,Linguagens & Frameworks,TRUE,testes automatizados
+ux,Adote,Linguagens & Frameworks,TRUE,ux
+vs code,Avalie,Linguagens & Frameworks,TRUE,vs code
+vue.js,Adote,Linguagens & Frameworks,TRUE,vue.js
+webpack,Adote,Linguagens & Frameworks,TRUE,webpack
+wes,Adote,Linguagens & Frameworks,TRUE,wes
+wes stateless,Experimente,Linguagens & Frameworks,TRUE,wes stateless
