@@ -1,0 +1,53 @@
+name,ring,quadrant,isNew,description
+Continuius Delivery,Adote,Ferramentas,TRUE,some description here
+Vue.js,Adote,Ferramentas,TRUE,some description here
+Testes Automatizados,Adote,Ferramentas,TRUE,some description here
+Teste de carga,Adote,Ferramentas,TRUE,some description here
+Branches com Merge Request,Adote,Ferramentas,TRUE,some description here
+WES,Adote,Ferramentas,TRUE,some description here
+UX,Adote,Ferramentas,TRUE,some description here
+Jest,Adote,Ferramentas,TRUE,some description here
+Roteamento de mensagens no BTL,Adote,Ferramentas,TRUE,some description here
+Webpack,Adote,Ferramentas,TRUE,some description here
+Integração Contínua,Adote,Ferramentas,TRUE,some description here
+Hackatons,Adote,Ferramentas,TRUE,some description here
+REST,Adote,Ferramentas,TRUE,some description here
+Swagger,Adote,Ferramentas,TRUE,some description here
+Git,Adote,Ferramentas,TRUE,some description here
+BIT,Adote,Ferramentas,TRUE,some description here
+Container,Experimente,Ferramentas,TRUE,some description here
+Devops,Experimente,Ferramentas,TRUE,some description here
+Trabalho Remoto,Experimente,Ferramentas,TRUE,some description here
+Docker,Experimente,Ferramentas,TRUE,some description here
+Elasticsearch,Experimente,Ferramentas,TRUE,some description here
+Artefatos de Builder,Experimente,Ferramentas,TRUE,some description here
+Squads,Experimente,Ferramentas,TRUE,some description here
+BEF One Layer,Experimente,Ferramentas,TRUE,some description here
+WES Stateless,Experimente,Ferramentas,TRUE,some description here
+Cake,Experimente,Ferramentas,TRUE,some description here
+Nuvem Pública,Experimente,Ferramentas,TRUE,some description here
+Design Sprint,Experimente,Ferramentas,TRUE,some description here
+.NET Core,Avalie,Ferramentas,TRUE,some description here
+PostgreSQL,Avalie,Ferramentas,TRUE,some description here
+Message Broker,Avalie,Ferramentas,TRUE,some description here
+Identity Server,Avalie,Ferramentas,TRUE,some description here
+Machine Learning,Avalie,Ferramentas,TRUE,some description here
+Power BI,Avalie,Ferramentas,TRUE,some description here
+OData,Avalie,Ferramentas,TRUE,some description here
+Microsserviços,Avalie,Ferramentas,TRUE,some description here
+Jira,Avalie,Ferramentas,TRUE,some description here
+Ferramentas de Monitoramento,Avalie,Ferramentas,TRUE,some description here
+RavenDB,Avalie,Ferramentas,TRUE,some description here
+API Manager / API Gateway,Avalie,Ferramentas,TRUE,some description here
+Dapper / ORM,Avalie,Ferramentas,TRUE,some description here
+Node.js,Avalie,Ferramentas,TRUE,some description here
+DDD,Avalie,Ferramentas,TRUE,some description here
+Regra de negócio Delphi,Evite,Ferramentas,TRUE,some description here
+Liberação manual,Evite,Ferramentas,TRUE,some description here
+Regra de negócio VBA,Evite,Ferramentas,TRUE,some description here
+Silverlight,Evite,Ferramentas,TRUE,some description here
+Cascagil,Evite,Ferramentas,TRUE,some description here
+WES 2006,Evite,Ferramentas,TRUE,some description here
+Stored Procedure,Evite,Ferramentas,TRUE,some description here
+SQL Específico para banco de dados,Evite,Ferramentas,TRUE,some description here
+DSS,Evite,Ferramentas,TRUE,some description here
