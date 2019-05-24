@@ -1,5 +1,5 @@
 name,ring,quadrant,isNew,description
-Continuius Delivery,Adote,Técnicas,TRUE,some description here
+Continuous Delivery,Adote,Técnicas,TRUE,some description here
 Testes Automatizados,Adote,Técnicas,TRUE,some description here
 Teste de carga,Adote,Técnicas,TRUE,some description here
 Branches com Merge Request,Adote,Técnicas,TRUE,some description here
